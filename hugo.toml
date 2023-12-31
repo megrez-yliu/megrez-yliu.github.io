@@ -1,0 +1,13 @@
+title = 'Wildlife Gallery'
+languageCode = 'en-us'
+copyright = "© Yixiu Liu"
+defaultContentLanguage = "en"
+timezone = "America/Los_Angeles"
+theme = ["github.com/nicokaiser/hugo-theme-gallery/v2"]
+
+[params]
+  title = "Yixiu's Wildlife Gallery"
+  defaultTheme = "dark"
+
+[author]
+  name = "Yixiu Liu"
