@@ -1,5 +1,5 @@
 ---
-title: Vultures and Condors
-featured_image: Turkey Vulture - Newport Bay.jpg
+title: New World Vultures
+featured_image: Turkey Vulture.jpg
 date: 2023-12-29
 ---

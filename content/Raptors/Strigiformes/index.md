@@ -1,5 +1,5 @@
 ---
 title: Owls
-featured_image: Burrowing Owl - Ontario Airport.jpg
+featured_image: DSC04582.jpg
 date: 2023-12-27
 ---
