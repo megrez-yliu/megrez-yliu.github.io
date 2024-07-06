@@ -9,19 +9,30 @@ menu:
 
 This visual field guide is a collection of photos featuring wildlife, primarily birds, that I've personally identified. I will focus on showcasing the key characteristics of different species.
 
-## About me
-I am a software engineer living in Los Angeles. I started birding in 2021. Southern California's mild winters and springs are prime time for me to go birdwatching. I also enjoy spotting new species when I travel.
+There is also a small (but growing) collection of astronomy photos that I've taken over the years.
 
-## Places I go
+## About me
+I am a software engineer living in Los Angeles. I started birding in 2021. Southern California's mild winters and springs are prime time for me to go birdwatching. I also use my bird photography gear for astrophotography.
+
+## Birding
 Check my recommended birding locations on [this map](https://www.google.com/maps/d/u/2/edit?mid=19s2gx4bAf_ru1_qYl6oOHykn7a-XnuU&usp=sharing).
 
-## To learn about birds and identify them
 The Cornell Lab of Ornithology provides these resources for birders.
-* Search on [All About Birds](https://www.allaboutbirds.org/guide/) for species info.
-* Explore hotspots and recent sightings on [Ebird](https://ebird.org/explore).
-* Use the [Merlin app](https://merlin.allaboutbirds.org/) to help you identify birds.
+* Search for species info - [All About Birds](https://www.allaboutbirds.org/guide/) 
+* Explore hotspots and recent sightings - [Ebird](https://ebird.org/explore).
+* Identify birds by photo / sound / step-by-step - [Merlin app](https://merlin.allaboutbirds.org/).
 
 **The Sibley Guide to Birds** is a great guide with detailed illustrations of North American birds.
+
+## Stargazing and Astrophotography
+Check my recommended stargazing locations on [this map](https://www.google.com/maps/d/u/0/edit?mid=1GTL2cN3p01qS5ywQWOmZ3LZtfUGyqP4&usp=sharing).
+
+To plan for your stargazing trip, check these
+* Light pollution & sky quality - [Clear Sky Chart](https://www.cleardarksky.com/csk/)
+* Weather, especially evening temperatures and cloud coverage - [Windy](https://www.windy.com)
+* Preview the night sky and make note of the direction & height of the target objects - [Stellarium](https://stellarium.org/)
+  * Avoid big cities that lie in the direction where you need to look.
+* Campsites if staying overnight.
 
 ## Contact
 yixiuliu42@gmail.com

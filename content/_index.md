@@ -1,5 +1,5 @@
 ---
-title: Yixiu's Wildlife Gallery
+title: Yixiu's Wildlife & Astronomy Collection
 linktitle: Home
-lastmod: 2023-12-27
+lastmod: 2024-07-05
 ---

@@ -1,4 +1,4 @@
-title = 'Wildlife Gallery'
+title = 'Wildlife & Astronomy Collection'
 languageCode = 'en-us'
 copyright = "© Yixiu Liu"
 defaultContentLanguage = "en"
@@ -6,7 +6,7 @@ timezone = "America/Los_Angeles"
 theme = ["github.com/nicokaiser/hugo-theme-gallery/v2"]
 
 [params]
-  title = "Yixiu's Wildlife Gallery"
+  title = "Yixiu's Wildlife and Astronomy Collection"
   defaultTheme = "dark"
 
 [author]
